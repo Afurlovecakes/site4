@@ -69,7 +69,7 @@ h2 {
 }*/
 
 div, article, section {
-    border: 3px dotted black;
+    /*border: 3px dotted black;*/
 }
 
 .description {
@@ -77,11 +77,11 @@ div, article, section {
     padding-top: 80px;
     padding-left: 30px;
     display: flex;
-    border: 1px dotted blue;
+    /*border: 1px dotted blue;*/
 }
 
 .description div {
-    border: 1px dotted red;
+    /*border: 1px dotted red;*/
     width: 400px
 }
 
@@ -193,7 +193,7 @@ div, article, section {
 .vyravnivanie1 {
     width: 1300px;
     margin-left: 100px;
-    border: 1px dotted purple;
+    /*border: 1px dotted purple;*/
 }
 
 .vyravnivanie2 {
@@ -205,7 +205,7 @@ div, article, section {
     width: 1000px;
     margin-top: 100px;
     margin-left: 120px;
-    border: 2px dotted purple;
+    /*border: 2px dotted purple;*/
 }
 
 .funktsionalnost {
