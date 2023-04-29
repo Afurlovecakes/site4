@@ -68,9 +68,9 @@ h2 {
     display: flex;
 }*/
 
-div, article, section {
-    /*border: 3px dotted black;*/
-}
+/*div, article, section {
+    border: 3px dotted black;
+}*/
 
 .description {
     margin: 50px 50px 0px 120px;
